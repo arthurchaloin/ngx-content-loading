@@ -2,6 +2,7 @@ export enum Defaults {
     PrimaryColor = '#f3f3f3',
     SecondaryColor = '#ecebeb',
     PreserveAspectRatio = 'xMidYMid meet',
+    SvgStyle = '',
     Classes = '',
     Speed = '1000ms',
     Width = '400',
